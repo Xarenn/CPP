@@ -1,2 +1,3 @@
 # CPP
-Functions and tricks in c++ which i use and always forget
+Functions and tricks in  <= c++ 11
+
